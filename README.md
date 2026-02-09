@@ -1,6 +1,6 @@
 # Financial Data Extractor
 
-A Python-based web application built with Streamlit and LangChain that extracts and analyzes financial data from various sources. This tool leverages AI-powered language models to intelligently process financial information and present it in a structured, easy-to-understand format.
+A Python-based web application built with Streamlit and LangChain that extracts and analyzes financial data from various sources. This tool uses LLM's to intelligently process financial information and present it in a structured, easy-to-understand format.
 
 ## Features
 
